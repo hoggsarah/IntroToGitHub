@@ -1,0 +1,10 @@
+{
+	"name": "bobsdls",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://bobssa.dfs.core.windows.net/"
+		}
+	}
+}
