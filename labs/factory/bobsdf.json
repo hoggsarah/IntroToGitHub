@@ -1,0 +1,9 @@
+{
+	"name": "bobsdf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2f888897-57fc-48c8-bd22-57b7b4fbd231",
+		"tenantId": "32226c37-3039-444b-9800-0cdf819f2ec3"
+	}
+}
